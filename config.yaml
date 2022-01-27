@@ -1,0 +1,8 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Que acelga nene? Probando nuevo sitio web
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
